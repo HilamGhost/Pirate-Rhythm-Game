@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c7c02e554e6cb24f84a3a53f917b9a5, type: 3}
+  m_Name: Verse
+  m_EditorClassIdentifier: 
+  rhythmPoints:
+  - BeatType: 2
+    Duration: 2.75
+  - BeatType: 2
+    Duration: 3.25
+  - BeatType: 0
+    Duration: 3.75
+  - BeatType: 2
+    Duration: 4.75
+  - BeatType: 0
+    Duration: 5.5
+  - BeatType: 0
+    Duration: 6.75
+  - BeatType: 1
+    Duration: 7.5
+  - BeatType: 1
+    Duration: 8.75
+  - BeatType: 1
+    Duration: 10
+  - BeatType: 1
+    Duration: 11.25
+  - BeatType: 2
+    Duration: 13.25
+  - BeatType: 2
+    Duration: 13.75
+  - BeatType: 0
+    Duration: 14.25
+  - BeatType: 2
+    Duration: 15.25
+  - BeatType: 0
+    Duration: 16
+  - BeatType: 0
+    Duration: 17
+  - BeatType: 0
+    Duration: 18
+  - BeatType: 0
+    Duration: 19
+  - BeatType: 0
+    Duration: 20
+  - BeatType: 2
+    Duration: 21
+  - BeatType: 2
+    Duration: 21.5
+  - BeatType: 0
+    Duration: 22.25
+  - BeatType: 0
+    Duration: 24
+  - BeatType: 0
+    Duration: 25
+  - BeatType: 0
+    Duration: 26
+  - BeatType: 0
+    Duration: 27
+  - BeatType: 0
+    Duration: 28
+  - BeatType: 0
+    Duration: 29
+  - BeatType: 0
+    Duration: 30
+  - BeatType: 0
+    Duration: 31
+  time: 30
